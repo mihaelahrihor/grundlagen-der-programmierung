@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1bffb797-563e-4595-918e-1efb7f6c70e3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/L1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L2/ex 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L2/ex 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L2/ex 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L2/ex 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L2/ex 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L2/ex 7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L3/Hauser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L3/Hertz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L3/Meniu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L3/Rechteck.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/L3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar 3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar 4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar 5/ex 1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar 5/ex 2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Seminar 5/ex 4.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2Xq0CcSbWd5kjLuP4M1zguf0yHK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="test hangman" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Seminar 6/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Seminar 6/tests/test hangman.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test hangman" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bffb797-563e-4595-918e-1efb7f6c70e3" name="Changes" comment="" />
+      <created>1699341177246</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699341177246</updated>
+    </task>
+    <servers />
+  </component>
+</project>
